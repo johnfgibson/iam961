@@ -1,6 +1,6 @@
-# iam961
-Course materials for UNH IAM 961 Numerical Linear Algebra
+# IAM 961 Numerical Linear Algebra
 
+University of New Hampshire, fall 2017  
 Instructor: John Gibson, john.gibson@unh.edu  
 Lecture: MW 9:40-11:00am, Kingsbury N389  
 Office hours: t.b.d. Kingsbury N309E, or after class
