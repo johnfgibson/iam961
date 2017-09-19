@@ -3,7 +3,7 @@
 University of New Hampshire, fall 2017  
 Instructor: John Gibson, john.gibson@unh.edu  
 Lecture: MW 9:40-11:00am, Kingsbury N389  
-Office hours: t.b.d. Kingsbury N309E, or after class
+Office hours: W 2-3pm, F 11-12pm, Kingsbury N309E, or after class
 
 **Official course description**: Introduction to numerical analysis and computational methods for linear systems. Topics include: IEEE floating point arithmetic; vector norms and induced norms; conditioning; LU decomposition; QR decomposition; Gram-Schmidt orthogonalization; Householder triangularization; singular value decomposition; least squares problems; stability, conditioning, and accuracy; eigenvalue problems; power iterations; QR algorithm; Krylov methods; Arnoldi iteration; GMRES; Lanczos iteration; conjugate gradient algorithm; and preconditioning. Prereq: scientific programming and linear algebra.
 
