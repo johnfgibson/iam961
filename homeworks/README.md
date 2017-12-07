@@ -1,5 +1,10 @@
 # IAM 961 Homeworks
 
+### To run Julia notebooks
+  1. [Install Julia on your computer](http://channelflow.org/dokuwiki/doku.php?id=gibson:teaching:fall-2016:math753:installing-julia)
+  2. [Run Julia and open the notebook](http://channelflow.org/dokuwiki/doku.php?id=gibson:teaching:fall-2016:math753:julia-notebooks)
+  3. [Edit the Julia notebook](http://channelflow.org/dokuwiki/doku.php?id=gibson:teaching:fall-2016:math753:notebook-workflow)
+
 ### To submit your homework:
 
   1. View the Julia notebook file for the homework below.
@@ -13,3 +18,5 @@
 | homework | due date |
 |----------|----------|
 |[HW 1](iam961-hw1.ipynb)| Mon 9/18 |
+|[HW 2](iam961-hw2.ipynb)| Wed 11/8 |
+
